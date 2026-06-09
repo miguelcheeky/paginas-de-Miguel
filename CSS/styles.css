@@ -1,0 +1,37 @@
+html,body,div{
+    background-color: azure;
+    margin: 0;
+}
+#principal{
+    background-color: beige;
+    width: 80%;
+    margin: auto;
+    clear: both;
+    border: 1px solid red;
+
+}
+.titulo{
+    color: blue;
+    text-align: center;
+}
+
+.subtitulo{
+    color: darkred;
+    text-align: left;
+
+}
+
+.parrafo{
+    font-size: 14px;
+    text-align: justify;
+}
+
+.td-aling{
+    text-align: center;
+    font-weight: bold;
+}
+
+a{
+    text-decoration: none;
+    color: blue;
+}
